@@ -1,1 +1,1 @@
-RUN dorowu/ubuntu-desktop-lxde-vnc
+ARG dorowu/ubuntu-desktop-lxde-vnc
